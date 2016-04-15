@@ -1,29 +1,41 @@
-name: Melissa Cota
-favicon: null
-layout_spectrum: 0.802466528955847
-typography_spectrum: 0.5548096653074026
 title: Melissa Cota
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.9854994
+  brandStrength: 0.5300752
+  lightness: 0.8899033
+  brandColors:
+    - '#EA9B74'
+    - '#28436D'
+    - '#FFFFFF'
+    - '#0D5DE0'
+    - '#913838'
+  rhythmicContrast: 0.4688507
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Melissa Cota
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.4373230824712664
-  lightness: 0.9762443078216165
-  saturation: 0.7647414670791477
-  rhythmicContrast: 0.5305966641753912
-purpose: []
+typography_spectrum: 0.4183673
+layout_spectrum: 0.802466528955847
